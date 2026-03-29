@@ -10,5 +10,7 @@
 <h1 align="center">Welcome to index JSP page....</h1>
 	
 <a href="home">go to homepage</a>
+
+
 </body>
 </html>
